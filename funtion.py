@@ -2,7 +2,7 @@
 DATE:17TH DEC 2022
 DAY: SATURDAY
 TOPIC: FUNTION
-AUTHOR:RAMA BHARGAvi
+AUTHOR:POOJA
 '''
 def greet():
     print('Hello')
